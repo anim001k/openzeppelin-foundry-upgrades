@@ -135,7 +135,7 @@ contract DefenderScript is Script {
 }
 ----
 
-Then run the script as in Example 1, and go the resulting URL to review and approve the upgrade proposal.
+Then run the script as in Example 1, and go to the resulting URL to review and approve the upgrade proposal.
 
 === Non-Upgradeable Contracts
 
