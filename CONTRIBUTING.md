@@ -21,7 +21,7 @@ The dependencies must be installed at least once before running the tests or lin
 ### Running tests
 ```yarn test```
 
-Ensure that all tests pass.  If you are adding new functionality, include testcases as appropriate.
+Ensure that all tests pass.  If you are adding new functionality, include test cases as appropriate.
 
 ### Running linter
 ```yarn lint```
